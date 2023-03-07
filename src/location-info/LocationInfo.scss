@@ -1,0 +1,88 @@
+.location-name {
+  position: relative;
+  text-decoration: underline;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+  padding: 12px 10px;
+  border-radius: 4px;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  .info-card {
+    cursor: default;
+    position: absolute;
+    left: 0;
+    top: 0;
+    min-height: 200px;
+    min-width: 300px;
+    background: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    border-radius: 4px;
+    padding: 5px 10px;
+    text-align: left;
+    white-space: nowrap;
+
+    .name-wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+
+      .name {
+        white-space: normal;
+      }
+
+      button {
+        margin: 0 0 0 5px;
+        border: none;
+        cursor: pointer;
+        outline: none;
+        background: none;
+        height: 27px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+
+    .pin-button {
+      margin-top: 8px;
+    }
+
+    .info-block {
+      margin-top: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+
+      svg {
+        min-width: 24px;
+      }
+
+      .values {
+        margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        white-space: break-spaces;
+      }
+    }
+
+    .map-container {
+      position: relative;
+      margin-top: 16px;
+      text-align: center;
+      background: rgba(0, 0, 0, 0.1);
+    }
+
+    @media screen and (max-width: 440px) {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: calc(100% - 20px);
+      height: 100%;
+      border-radius: 0;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.forecast-day {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 550px;
+  padding: 10px;
+
+  @media screen and (orientation: portrait) and (max-width: 600px) {
+    flex-direction: row;
+    min-height: 255px;
+  }
+
+  @media screen and (orientation: portrait) and (max-width: 414px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

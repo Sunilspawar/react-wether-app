@@ -1,0 +1,74 @@
+.unit-changer-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 26px;
+
+  .change-units-clickable {
+    cursor: pointer;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+    padding: 0 8px;
+    border-radius: 4px;
+    min-width: 80px;
+    font-size: 14px;
+    line-height: 26px;
+    height: 26px;
+    text-align: center;
+  }
+
+  .select-container {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 110px;
+    min-width: 128px;
+    background: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    border-radius: 4px;
+    padding: 6px 8px 10px;
+
+    span {
+      font-size: 14px;
+      align-self: flex-start;
+      margin-bottom: 10px;
+    }
+
+    .close-button {
+      position: absolute;
+      right: 5px;
+      top: 3px;
+      margin: 0;
+      padding: 0;
+      border: none;
+      cursor: pointer;
+      outline: none;
+      background: none;
+    }
+  }
+
+  .unit-select {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    select {
+      width: 75px;
+    }
+  }
+
+  @media screen and (orientation: portrait) and (max-width: 600px) {
+    margin-top: 10px;
+
+    .select-container {
+      right: auto;
+      left: 0;
+    }
+  }
+}

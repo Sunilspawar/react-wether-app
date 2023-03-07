@@ -1,0 +1,80 @@
+{
+  "general": {
+    "sunday": "Vasárnap",
+    "monday": "Hétfő",
+    "tuesday": "Kedd",
+    "wednesday": "Szerda",
+    "thursday": "Csütörtök",
+    "friday": "Péntek",
+    "saturday": "Szombat",
+    "searching-location": "Jelenlegi hely keresése...",
+    "weather-error": "Nincs rendelkezésre álló időjárás információ!"
+  },
+  "location-changer": {
+    "title": "Lokáció",
+    "refresh": "Időjárás frissítése"
+  },
+  "pinned-locations": {
+    "title": "Rögzített helyek"
+  },
+  "location-info": {
+    "unpin": "Rögzítés feloldása",
+    "pin": "Hely rögzítése",
+    "calling-code": "Előhívószám:",
+    "smallest-denomination": "Legkisebb egység:",
+    "subunit": "Részegység:",
+    "driving-on": "Vezetés a {{on}} oldalon, sebesség mértékegység a következőben: {{unit}}"
+  },
+  "unit-changer": {
+    "title": "Beállítások",
+    "english": "Angol",
+    "hungarian": "Magyar"
+  },
+  "current-conditions": {
+    "title": "Jelenlegi időjárás",
+    "temperature": "hőm.",
+    "real-feel": "Valós érzet:",
+    "precipitation": "csapadék",
+    "cloud": "felhő",
+    "cover": "borult",
+    "wind": "szél",
+    "pressure": "nyomás",
+    "indoor": "bent",
+    "ceiling": "f.plafon",
+    "humidity": "páratart.",
+    "visibility": "láthatóság",
+    "dewpoint": "harmatpont",
+    "h12forecast": "12 órás előrejelzés",
+    "now": "Most"
+  },
+  "forecast-card": {
+    "less": "kevesebb",
+    "temperature-between": "Hőmérséklet a következő közt:",
+    "and": "és",
+    "night": " éjszaka"
+  },
+  "weather-details": {
+    "night": "éjszaka",
+    "moon-phase": "Fázis:",
+    "moon-age": "Kor:",
+    "moon-new": "Újhold",
+    "moon-first": "Első negyed",
+    "moon-waxing-crescent": "Növekvő sarló",
+    "moon-waxing-gibbous": "Domború",
+    "moon-full": "Telihold",
+    "moon-waning-gibbous": "Fogyó domború",
+    "moon-last": "Utolsó negyed",
+    "moon-waning-crescent": "Sarló",
+    "moon-days": "nap",
+    "rain": "eső",
+    "snow": "hó",
+    "ice": "jég",
+    "prec-total-hours": "Összes óra:",
+    "prec-total-liquid": "Összes csapadék:",
+    "prec-cloud-cover": "Felhőtakaró:",
+    "prec-thunderstorm": "Vihar:",
+    "real-feel": "Valós érzet:",
+    "at": "",
+    "wind-gust": "Széllökés:"
+  }
+}

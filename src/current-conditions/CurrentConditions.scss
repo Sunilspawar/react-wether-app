@@ -1,0 +1,118 @@
+.location-changer-container {
+  
+  .current-conditions-button {
+    background-color: snow;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  .current-conditions-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    background: #fff;
+    z-index: 1;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px 15px 25px;
+    min-height: 110px;
+    min-width: 300px;
+    width: 300px;
+    overflow-y: scroll;
+    max-height: calc(100vh - 47px);
+
+    .close-button {
+      position: absolute;
+      right: 5px;
+      top: 3px;
+      margin: 0;
+      padding: 0;
+      border: none;
+      cursor: pointer;
+      outline: none;
+      background: none;
+    }
+
+    .title-wrapper {
+      font-size: 14px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      margin-bottom: 10px;
+
+      .refresh-button {
+        margin: 0 0 0 15px;
+        padding: 0;
+        border: none;
+        background: none;
+        display: inline-block;
+        outline: none;
+        cursor: pointer;
+        width: 18px;
+        height: 18px;
+      }
+    }
+
+    .conditions-container {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-direction: column;
+      width: 100%;
+      height: 100%;
+
+      .icon-and-text {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        img {
+          width: 50px;
+          height: auto;
+        }
+
+        span {
+          margin: 0 0 0 20px;
+          align-self: auto;
+        }
+      }
+
+      .condition-line {
+        position: relative;
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: 30px;
+
+        &:not(:nth-child(2)) {
+          margin-top: 20px;
+        }
+
+        span {
+          margin: 0 0 0 12px;
+          align-self: auto;
+        }
+
+        .icon {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+        .description {
+          margin: 0;
+          position: absolute;
+          bottom: -11px;
+          font-size: 11px;
+        }
+      }
+    }
+  }
+}

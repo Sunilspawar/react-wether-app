@@ -1,0 +1,51 @@
+.log-display-container {
+  margin-top: 20px;
+  width: 100%;
+  height: 120px;
+  text-align: left;
+
+  .log-link {
+    padding-left: 5vw;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .log-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow-y: scroll;
+    display: block;
+
+    &.hidden {
+      display: none;
+    }
+
+    .log-row {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+
+      &.error {
+        color: red;
+      }
+
+      &warn {
+        color: orange;
+      }
+
+      .time {
+        flex: 1;
+      }
+
+      .type {
+        flex: 1;
+      }
+
+      .message {
+        flex: 7;
+      }
+    }
+  }
+}

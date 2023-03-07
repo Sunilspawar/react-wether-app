@@ -1,0 +1,204 @@
+[
+  {
+    "DateTime": "2021-05-12T11:00:00+02:00",
+    "EpochDateTime": 1620810000,
+    "WeatherIcon": 12,
+    "IconPhrase": "Showers",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 71,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 58,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=11&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=11&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T12:00:00+02:00",
+    "EpochDateTime": 1620813600,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 73,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 49,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=12&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=12&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T13:00:00+02:00",
+    "EpochDateTime": 1620817200,
+    "WeatherIcon": 12,
+    "IconPhrase": "Showers",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 58,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=13&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=13&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T14:00:00+02:00",
+    "EpochDateTime": 1620820800,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 40,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=14&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=14&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T15:00:00+02:00",
+    "EpochDateTime": 1620824400,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 34,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=15&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=15&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T16:00:00+02:00",
+    "EpochDateTime": 1620828000,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 40,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=16&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=16&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T17:00:00+02:00",
+    "EpochDateTime": 1620831600,
+    "WeatherIcon": 12,
+    "IconPhrase": "Showers",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 71,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 54,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=17&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=17&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T18:00:00+02:00",
+    "EpochDateTime": 1620835200,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 69,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 46,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=18&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=18&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T19:00:00+02:00",
+    "EpochDateTime": 1620838800,
+    "WeatherIcon": 12,
+    "IconPhrase": "Showers",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 68,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 54,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=19&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=19&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T20:00:00+02:00",
+    "EpochDateTime": 1620842400,
+    "WeatherIcon": 12,
+    "IconPhrase": "Showers",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Moderate",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 64,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 52,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=20&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=20&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T21:00:00+02:00",
+    "EpochDateTime": 1620846000,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 63,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 48,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=21&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=21&lang=en-us"
+  },
+  {
+    "DateTime": "2021-05-12T22:00:00+02:00",
+    "EpochDateTime": 1620849600,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 61,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 44,
+    "MobileLink": "http://m.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=22&lang=en-us",
+    "Link": "http://www.accuweather.com/en/hu/jozsefvaros/187420/hourly-weather-forecast/187420?day=1&hbhhour=22&lang=en-us"
+  }
+]

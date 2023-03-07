@@ -1,0 +1,117 @@
+.forecast-container {
+  width: 165px;
+
+  .inner {
+    .front {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: #fafafa;
+      box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+
+      .info-container {
+        .date {
+          margin-top: 0;
+        }
+
+        .icon-short {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          .short {
+            margin-top: 0;
+            font-size: 13px;
+            line-height: 1;
+            max-height: 40px;
+            text-align: left;
+            white-space: pre-wrap;
+          }
+
+          .icon.accu {
+            width: 55px;
+            height: auto;
+            border-radius: 0;
+
+            &.modern {
+              width: 40px;
+              margin-right: 10px;
+            }
+          }
+        }
+
+        .temperature {
+          margin-top: 18px;
+        }
+
+        .card-item {
+          margin-top: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: flex-start;
+          font-size: 14px;
+          text-align: left;
+
+          svg {
+            margin-right: 10px;
+          }
+        }
+
+        .wind-wrapper {
+          display: flex;
+
+          .wind {
+            margin-top: 0;
+          }
+        }
+      }
+
+      .bottom-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        cursor: pointer;
+
+        .round-button {
+          width: 20px;
+          height: 20px;
+          border: 2px solid #525252;
+          border-radius: 50%;
+
+          &.more svg {
+            padding-top: 2px;
+          }
+        }
+      }
+    }
+
+    .back {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+
+      .temp-text {
+        font-size: 14px;
+      }
+
+      .back-image {
+        width: 100%;
+        height: 50%;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+      }
+    }
+  }
+
+  @media screen and (max-width: 380px) {
+    min-width: calc(50% - 8px);
+    width: calc(50% - 8px);
+  }
+
+  @media screen and (max-width: 340px) {
+    min-width: calc(50% - 5px);
+    width: calc(50% - 5px);
+  }
+}

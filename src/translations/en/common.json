@@ -1,0 +1,80 @@
+{
+  "general": {
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "searching-location": "Searching for current location...",
+    "weather-error": "No weather information available!"
+  },
+  "location-changer": {
+    "title": "Location",
+    "refresh": "Refresh weather"
+  },
+  "pinned-locations": {
+    "title": "Pinned locations"
+  },
+  "location-info": {
+    "unpin": "Unpin location",
+    "pin": "Pin location",
+    "calling-code": "Calling code:",
+    "smallest-denomination": "Smallest denomination:",
+    "subunit": "Subunit:",
+    "driving-on": "Driving on {{on}}, speed unit in {{unit}}"
+  },
+  "unit-changer": {
+    "title": "Settings",
+    "english": "English",
+    "hungarian": "Hungarian"
+  },
+  "current-conditions": {
+    "title": "Current conditions",
+    "temperature": "temp.",
+    "real-feel": "Real feel:",
+    "precipitation": "prec.",
+    "cloud": "cloud",
+    "cover": "cover",
+    "wind": "wind",
+    "pressure": "pressure",
+    "indoor": "indoor",
+    "ceiling": "ceiling",
+    "humidity": "humidity",
+    "visibility": "visibility",
+    "dewpoint": "dewpoint",
+    "h12forecast": "12 hour forecast",
+    "now": "Now"
+  },
+  "forecast-card": {
+    "less": "less",
+    "temperature-between": "Temperature between",
+    "and": "and",
+    "night": " night"
+  },
+  "weather-details": {
+    "night": "night",
+    "moon-phase": "Phase:",
+    "moon-age": "Age:",
+    "moon-new": "New Moon",
+    "moon-first": "First Quarter",
+    "moon-waxing-crescent": "Waxing Crescent",
+    "moon-waxing-gibbous": "Waxing Gibbous",
+    "moon-full": "Full Moon",
+    "moon-waning-gibbous": "Waning Gibbous",
+    "moon-last": "Last Quarter",
+    "moon-waning-crescent": "Waning Crescent",
+    "moon-days": "days",
+    "rain": "rain",
+    "snow": "snow",
+    "ice": "ice",
+    "prec-total-hours": "Total hours:",
+    "prec-total-liquid": "Total liquid:",
+    "prec-cloud-cover": "Cloud cover:",
+    "prec-thunderstorm": "Thunderstorm:",
+    "real-feel": "Real feel:",
+    "at": "at",
+    "wind-gust": "Wind gust:"
+  }
+}

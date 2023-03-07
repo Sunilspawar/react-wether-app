@@ -1,0 +1,6 @@
+.result-list {
+  .location-item:not(:last-child) {
+    background-color: white;
+    border-bottom: 1px solid #d8d8d8;
+  }
+}

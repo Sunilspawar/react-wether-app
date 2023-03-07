@@ -1,0 +1,1077 @@
+{
+  "documentation": "https://opencagedata.com/api",
+  "licenses": [
+    {
+      "name": "see attribution guide",
+      "url": "https://opencagedata.com/credits"
+    }
+  ],
+  "rate": {
+    "limit": 2500,
+    "remaining": 2496,
+    "reset": 1576886400
+  },
+  "results": [
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "47° 29' 54.17340'' N",
+          "lng": "19° 2' 25.69452'' E"
+        },
+        "MGRS": "34TCT5241962410",
+        "Maidenhead": "JN97ml49uo",
+        "Mercator": {
+          "x": 2119575.503,
+          "y": 5992287.961
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?relation=1244004#map=16/47.49838/19.04047",
+          "url": "https://www.openstreetmap.org/?mlat=47.49838&mlon=19.04047#map=16/47.49838/19.04047"
+        },
+        "UN_M49": {
+          "regions": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "HU": "348",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 36,
+        "currency": {
+          "alternate_symbols": [],
+          "decimal_mark": ",",
+          "html_entity": "",
+          "iso_code": "HUF",
+          "iso_numeric": "348",
+          "name": "Hungarian Forint",
+          "smallest_denomination": 5,
+          "subunit": "",
+          "subunit_to_unit": 1,
+          "symbol": "Ft",
+          "symbol_first": 0,
+          "thousands_separator": " "
+        },
+        "flag": "🇭🇺",
+        "geohash": "u2mw1qbf5h5fpt1hpt2t",
+        "qibla": 140.08,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576823340,
+            "astronomical": 1576816560,
+            "civil": 1576821180,
+            "nautical": 1576818840
+          },
+          "set": {
+            "apparent": 1576853640,
+            "astronomical": 1576860360,
+            "civil": 1576855800,
+            "nautical": 1576858140
+          }
+        },
+        "timezone": {
+          "name": "Europe/Budapest",
+          "now_in_dst": 0,
+          "offset_sec": 3600,
+          "offset_string": "+0100",
+          "short_name": "CET"
+        },
+        "what3words": {
+          "words": "wicket.tank.cubes"
+        },
+        "wikidata": "Q1781"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 47.6131468,
+          "lng": 19.3349258
+        },
+        "southwest": {
+          "lat": 47.3496899,
+          "lng": 18.9251057
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "HU",
+        "ISO_3166-1_alpha-3": "HUN",
+        "_type": "city",
+        "city": "Budapest",
+        "continent": "Europe",
+        "country": "Hungary",
+        "country_code": "hu",
+        "political_union": "European Union",
+        "region": "Central Hungary"
+      },
+      "confidence": 3,
+      "formatted": "Budapest, Hungary",
+      "geometry": {
+        "lat": 47.4983815,
+        "lng": 19.0404707
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "47° 28' 53.00256'' N",
+          "lng": "19° 8' 45.86208'' E"
+        },
+        "MGRS": "34TCT6032760327",
+        "Maidenhead": "JN97nl75mm",
+        "Mercator": {
+          "x": 2131331.073,
+          "y": 5989497.261
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?relation=37244#map=16/47.48139/19.14607",
+          "url": "https://www.openstreetmap.org/?mlat=47.48139&mlon=19.14607#map=16/47.48139/19.14607"
+        },
+        "UN_M49": {
+          "regions": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "HU": "348",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 36,
+        "currency": {
+          "alternate_symbols": [],
+          "decimal_mark": ",",
+          "html_entity": "",
+          "iso_code": "HUF",
+          "iso_numeric": "348",
+          "name": "Hungarian Forint",
+          "smallest_denomination": 5,
+          "subunit": "",
+          "subunit_to_unit": 1,
+          "symbol": "Ft",
+          "symbol_first": 0,
+          "thousands_separator": " "
+        },
+        "flag": "🇭🇺",
+        "geohash": "u2mw5etxpud95rmecmtj",
+        "qibla": 140.24,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576823280,
+            "astronomical": 1576816560,
+            "civil": 1576821120,
+            "nautical": 1576818780
+          },
+          "set": {
+            "apparent": 1576853580,
+            "astronomical": 1576860360,
+            "civil": 1576855740,
+            "nautical": 1576858080
+          }
+        },
+        "timezone": {
+          "name": "Europe/Budapest",
+          "now_in_dst": 0,
+          "offset_sec": 3600,
+          "offset_string": "+0100",
+          "short_name": "CET"
+        },
+        "what3words": {
+          "words": "supplier.speaks.legend"
+        },
+        "wikidata": "Q1781"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 47.6131468,
+          "lng": 19.3349258
+        },
+        "southwest": {
+          "lat": 47.3496899,
+          "lng": 18.9251057
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "HU",
+        "ISO_3166-1_alpha-3": "HUN",
+        "_type": "county",
+        "continent": "Europe",
+        "country": "Hungary",
+        "country_code": "hu",
+        "county": "Budapest",
+        "political_union": "European Union",
+        "region": "Central Hungary"
+      },
+      "confidence": 3,
+      "formatted": "Budapest, Hungary",
+      "geometry": {
+        "lat": 47.4813896,
+        "lng": 19.1460728
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "33° 42' 54.38376'' N",
+          "lng": "85° 13' 4.81980'' W"
+        },
+        "FIPS": {
+          "county": "13143",
+          "state": "13"
+        },
+        "MGRS": "16SFC6512031993",
+        "Maidenhead": "EM73jr31up",
+        "Mercator": {
+          "x": -9486424.979,
+          "y": 3966895.408
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=153380507#map=16/33.71511/-85.21801",
+          "url": "https://www.openstreetmap.org/?mlat=33.71511&mlon=-85.21801#map=16/33.71511/-85.21801"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "NORTHERN_AMERICA": "021",
+            "US": "840",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["US$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "US$",
+          "html_entity": "$",
+          "iso_code": "USD",
+          "iso_numeric": "840",
+          "name": "United States Dollar",
+          "smallest_denomination": 1,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "🇺🇸",
+        "geohash": "djgrucdhsx3sc227s5pd",
+        "qibla": 51.76,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "mph"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576845720,
+            "astronomical": 1576840380,
+            "civil": 1576844040,
+            "nautical": 1576842180
+          },
+          "set": {
+            "apparent": 1576881300,
+            "astronomical": 1576800240,
+            "civil": 1576882980,
+            "nautical": 1576884840
+          }
+        },
+        "timezone": {
+          "name": "America/New_York",
+          "now_in_dst": 0,
+          "offset_sec": -18000,
+          "offset_string": "-0500",
+          "short_name": "EST"
+        },
+        "what3words": {
+          "words": "harshest.hovering.overtaken"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 33.7351066,
+          "lng": -85.1980055
+        },
+        "southwest": {
+          "lat": 33.6951066,
+          "lng": -85.2380055
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "US",
+        "ISO_3166-1_alpha-3": "USA",
+        "_type": "village",
+        "continent": "North America",
+        "country": "USA",
+        "country_code": "us",
+        "county": "Haralson County",
+        "hamlet": "Budapest",
+        "state": "Georgia",
+        "state_code": "GA"
+      },
+      "confidence": 7,
+      "formatted": "Budapest, GA, United States of America",
+      "geometry": {
+        "lat": 33.7151066,
+        "lng": -85.2180055
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "36° 46' 8.19876'' N",
+          "lng": "90° 42' 39.43080'' W"
+        },
+        "FIPS": {
+          "county": "29181",
+          "state": "29"
+        },
+        "MGRS": "15SYA0430071684",
+        "Maidenhead": "EM46ps44qn",
+        "Mercator": {
+          "x": -10097897.097,
+          "y": 4381370.481
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=151836221#map=16/36.76894/-90.71095",
+          "url": "https://www.openstreetmap.org/?mlat=36.76894&mlon=-90.71095#map=16/36.76894/-90.71095"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "NORTHERN_AMERICA": "021",
+            "US": "840",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["US$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "US$",
+          "html_entity": "$",
+          "iso_code": "USD",
+          "iso_numeric": "840",
+          "name": "United States Dollar",
+          "smallest_denomination": 1,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "🇺🇸",
+        "geohash": "9yx3pvd69egp08u9ecn2",
+        "qibla": 47.22,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "mph"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576847520,
+            "astronomical": 1576841940,
+            "civil": 1576845780,
+            "nautical": 1576843860
+          },
+          "set": {
+            "apparent": 1576882140,
+            "astronomical": 1576801320,
+            "civil": 1576883880,
+            "nautical": 1576885800
+          }
+        },
+        "timezone": {
+          "name": "America/Chicago",
+          "now_in_dst": 0,
+          "offset_sec": -21600,
+          "offset_string": "-0600",
+          "short_name": "CST"
+        },
+        "what3words": {
+          "words": "intruding.hypocrite.equip"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 36.7889441,
+          "lng": -90.690953
+        },
+        "southwest": {
+          "lat": 36.7489441,
+          "lng": -90.730953
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "US",
+        "ISO_3166-1_alpha-3": "USA",
+        "_type": "village",
+        "continent": "North America",
+        "country": "USA",
+        "country_code": "us",
+        "county": "Ripley County",
+        "hamlet": "Budapest",
+        "state": "Missouri",
+        "state_code": "MO"
+      },
+      "confidence": 7,
+      "formatted": "Budapest, MO, United States of America",
+      "geometry": {
+        "lat": 36.7689441,
+        "lng": -90.710953
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "42° 42' 28.74852'' N",
+          "lng": "23° 19' 34.54140'' E"
+        },
+        "MGRS": "34TFN9050931011",
+        "Maidenhead": "KN12pq99dw",
+        "Mercator": {
+          "x": 2596667.552,
+          "y": 5238639.393
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=15090455#map=16/42.70799/23.32626",
+          "url": "https://www.openstreetmap.org/?mlat=42.70799&mlon=23.32626#map=16/42.70799/23.32626"
+        },
+        "UN_M49": {
+          "regions": {
+            "BG": "100",
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 359,
+        "currency": {
+          "alternate_symbols": ["lev", "leva", "лев", "лева"],
+          "decimal_mark": ".",
+          "html_entity": "",
+          "iso_code": "BGN",
+          "iso_numeric": "975",
+          "name": "Bulgarian Lev",
+          "smallest_denomination": 1,
+          "subunit": "Stotinka",
+          "subunit_to_unit": 100,
+          "symbol": "лв.",
+          "symbol_first": 0,
+          "thousands_separator": ","
+        },
+        "flag": "🇧🇬",
+        "geohash": "sx8dfyc8j394pk6txcgr",
+        "qibla": 141.89,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Budapest",
+          "road_type": "residential",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576821240,
+            "astronomical": 1576815120,
+            "civil": 1576819260,
+            "nautical": 1576817160
+          },
+          "set": {
+            "apparent": 1576853640,
+            "astronomical": 1576859820,
+            "civil": 1576855620,
+            "nautical": 1576857720
+          }
+        },
+        "timezone": {
+          "name": "Europe/Sofia",
+          "now_in_dst": 0,
+          "offset_sec": 7200,
+          "offset_string": "+0200",
+          "short_name": "EET"
+        },
+        "what3words": {
+          "words": "fool.vitamins.happier"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 42.7086576,
+          "lng": 23.3264471
+        },
+        "southwest": {
+          "lat": 42.7072835,
+          "lng": 23.326071
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "BG",
+        "ISO_3166-1_alpha-3": "BGR",
+        "_type": "road",
+        "city": "Sofia",
+        "continent": "Europe",
+        "country": "Bulgaria",
+        "country_code": "bg",
+        "county": "Sofia City",
+        "political_union": "European Union",
+        "postcode": "1250",
+        "road": "Budapest",
+        "road_type": "residential",
+        "state": "Sofia-City",
+        "suburb": "TETS Sofia"
+      },
+      "confidence": 9,
+      "formatted": "Budapest, TETS Sofia, 1250 Sofia, Bulgaria",
+      "geometry": {
+        "lat": 42.7079857,
+        "lng": 23.3262615
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "42° 42' 8.91792'' N",
+          "lng": "23° 19' 37.80984'' E"
+        },
+        "MGRS": "34TFN9060030402",
+        "Maidenhead": "KN12pq98go",
+        "Mercator": {
+          "x": 2596768.619,
+          "y": 5237807.961
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=20310469#map=16/42.70248/23.32717",
+          "url": "https://www.openstreetmap.org/?mlat=42.70248&mlon=23.32717#map=16/42.70248/23.32717"
+        },
+        "UN_M49": {
+          "regions": {
+            "BG": "100",
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 359,
+        "currency": {
+          "alternate_symbols": ["lev", "leva", "лев", "лева"],
+          "decimal_mark": ".",
+          "html_entity": "",
+          "iso_code": "BGN",
+          "iso_numeric": "975",
+          "name": "Bulgarian Lev",
+          "smallest_denomination": 1,
+          "subunit": "Stotinka",
+          "subunit_to_unit": 100,
+          "symbol": "лв.",
+          "symbol_first": 0,
+          "thousands_separator": ","
+        },
+        "flag": "🇧🇬",
+        "geohash": "sx8dfvdrfqwnwsvx9c9n",
+        "qibla": 141.88,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Budapest",
+          "road_type": "residential",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576821240,
+            "astronomical": 1576815120,
+            "civil": 1576819260,
+            "nautical": 1576817160
+          },
+          "set": {
+            "apparent": 1576853700,
+            "astronomical": 1576859820,
+            "civil": 1576855620,
+            "nautical": 1576857720
+          }
+        },
+        "timezone": {
+          "name": "Europe/Sofia",
+          "now_in_dst": 0,
+          "offset_sec": 7200,
+          "offset_string": "+0200",
+          "short_name": "EET"
+        },
+        "what3words": {
+          "words": "bend.cure.accusing"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 42.7044408,
+          "lng": 23.3276645
+        },
+        "southwest": {
+          "lat": 42.6996684,
+          "lng": 23.3268222
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "BG",
+        "ISO_3166-1_alpha-3": "BGR",
+        "_type": "road",
+        "city": "Sofia",
+        "continent": "Europe",
+        "country": "Bulgaria",
+        "country_code": "bg",
+        "county": "Sofia City",
+        "political_union": "European Union",
+        "postcode": "1000",
+        "road": "Budapest",
+        "road_type": "residential",
+        "state": "Sofia-City",
+        "suburb": "Centre"
+      },
+      "confidence": 9,
+      "formatted": "Budapest, Centre, 1000 Sofia, Bulgaria",
+      "geometry": {
+        "lat": 42.7024772,
+        "lng": 23.3271694
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "42° 42' 21.22236'' N",
+          "lng": "23° 19' 36.58728'' E"
+        },
+        "MGRS": "34TFN9056230780",
+        "Maidenhead": "KN12pq99fj",
+        "Mercator": {
+          "x": 2596730.815,
+          "y": 5238323.837
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=60789297#map=16/42.70590/23.32683",
+          "url": "https://www.openstreetmap.org/?mlat=42.70590&mlon=23.32683#map=16/42.70590/23.32683"
+        },
+        "UN_M49": {
+          "regions": {
+            "BG": "100",
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 359,
+        "currency": {
+          "alternate_symbols": ["lev", "leva", "лев", "лева"],
+          "decimal_mark": ".",
+          "html_entity": "",
+          "iso_code": "BGN",
+          "iso_numeric": "975",
+          "name": "Bulgarian Lev",
+          "smallest_denomination": 1,
+          "subunit": "Stotinka",
+          "subunit_to_unit": 100,
+          "symbol": "лв.",
+          "symbol_first": 0,
+          "thousands_separator": ","
+        },
+        "flag": "🇧🇬",
+        "geohash": "sx8dfy65febgpx0hf511",
+        "qibla": 141.88,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Budapest",
+          "road_type": "residential",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576821240,
+            "astronomical": 1576815120,
+            "civil": 1576819260,
+            "nautical": 1576817160
+          },
+          "set": {
+            "apparent": 1576853640,
+            "astronomical": 1576859820,
+            "civil": 1576855620,
+            "nautical": 1576857720
+          }
+        },
+        "timezone": {
+          "name": "Europe/Sofia",
+          "now_in_dst": 0,
+          "offset_sec": 7200,
+          "offset_string": "+0200",
+          "short_name": "EET"
+        },
+        "what3words": {
+          "words": "betrayal.brochure.fuels"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 42.7072835,
+          "lng": 23.3271048
+        },
+        "southwest": {
+          "lat": 42.7048455,
+          "lng": 23.3264471
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "BG",
+        "ISO_3166-1_alpha-3": "BGR",
+        "_type": "road",
+        "city": "Sofia",
+        "continent": "Europe",
+        "country": "Bulgaria",
+        "country_code": "bg",
+        "county": "Sofia City",
+        "political_union": "European Union",
+        "postcode": "1202",
+        "road": "Budapest",
+        "road_type": "residential",
+        "state": "Sofia-City",
+        "suburb": "Centre"
+      },
+      "confidence": 9,
+      "formatted": "Budapest, Centre, 1202 Sofia, Bulgaria",
+      "geometry": {
+        "lat": 42.7058951,
+        "lng": 23.3268298
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "34° 35' 15.39096'' S",
+          "lng": "58° 29' 4.37496'' W"
+        },
+        "MGRS": "21HUB6385071686",
+        "Maidenhead": "GF05sj18ux",
+        "Mercator": {
+          "x": -6510470.169,
+          "y": -4083723.611
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=22813036#map=16/-34.58761/-58.48455",
+          "url": "https://www.openstreetmap.org/?mlat=-34.58761&mlon=-58.48455#map=16/-34.58761/-58.48455"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "AR": "032",
+            "LATIN_AMERICA": "419",
+            "SOUTH_AMERICA": "005",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["LEDC"]
+        },
+        "callingcode": 54,
+        "currency": {
+          "alternate_symbols": ["$m/n", "m$n"],
+          "decimal_mark": ",",
+          "disambiguate_symbol": "$m/n",
+          "html_entity": "$",
+          "iso_code": "ARS",
+          "iso_numeric": "032",
+          "name": "Argentine Peso",
+          "smallest_denomination": 1,
+          "subunit": "Centavo",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "🇦🇷",
+        "geohash": "69y7jpsbe4ry1d6pf7tb",
+        "qibla": 76.31,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Budapest",
+          "road_type": "residential",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576831080,
+            "astronomical": 1576824780,
+            "civil": 1576829340,
+            "nautical": 1576827180
+          },
+          "set": {
+            "apparent": 1576883100,
+            "astronomical": 1576803060,
+            "civil": 1576884840,
+            "nautical": 1576800600
+          }
+        },
+        "timezone": {
+          "name": "America/Argentina/Buenos_Aires",
+          "now_in_dst": 0,
+          "offset_sec": -10800,
+          "offset_string": "-0300",
+          "short_name": "-03"
+        },
+        "what3words": {
+          "words": "gliders.support.emailed"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": -34.5866733,
+          "lng": -58.4845486
+        },
+        "southwest": {
+          "lat": -34.5876086,
+          "lng": -58.4853991
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "AR",
+        "ISO_3166-1_alpha-3": "ARG",
+        "_type": "road",
+        "city": "Autonomous City of Buenos Aires",
+        "continent": "South America",
+        "country": "Argentina",
+        "country_code": "ar",
+        "postcode": "C1427BLA",
+        "road": "Budapest",
+        "road_type": "residential",
+        "state": "Buenos Aires",
+        "state_code": "B",
+        "suburb": "Parque Chas"
+      },
+      "confidence": 9,
+      "formatted": "Budapest, Parque Chas, C1427 BLA Buenos Aires, Argentina",
+      "geometry": {
+        "lat": -34.5876086,
+        "lng": -58.4845486
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "29° 32' 52.91772'' N",
+          "lng": "98° 32' 8.97288'' W"
+        },
+        "FIPS": {
+          "county": "48029",
+          "state": "48"
+        },
+        "MGRS": "14RNT4497068795",
+        "Maidenhead": "EL09rn51qm",
+        "Mercator": {
+          "x": -10968957.953,
+          "y": 3424517.031
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=240743142#map=16/29.54803/-98.53583",
+          "url": "https://www.openstreetmap.org/?mlat=29.54803&mlon=-98.53583#map=16/29.54803/-98.53583"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "NORTHERN_AMERICA": "021",
+            "US": "840",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["US$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "US$",
+          "html_entity": "$",
+          "iso_code": "USD",
+          "iso_numeric": "840",
+          "name": "United States Dollar",
+          "smallest_denomination": 1,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "🇺🇸",
+        "geohash": "9v3bjg03ubdbxn8cfrjy",
+        "qibla": 43.11,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Budapest",
+          "road_type": "residential",
+          "speed_in": "mph"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576848300,
+            "astronomical": 1576843200,
+            "civil": 1576846740,
+            "nautical": 1576844940
+          },
+          "set": {
+            "apparent": 1576885140,
+            "astronomical": 1576803780,
+            "civil": 1576800300,
+            "nautical": 1576802040
+          }
+        },
+        "timezone": {
+          "name": "America/Chicago",
+          "now_in_dst": 0,
+          "offset_sec": -21600,
+          "offset_string": "-0600",
+          "short_name": "CST"
+        },
+        "what3words": {
+          "words": "hedge.claim.ruled"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 29.5484706,
+          "lng": -98.5351404
+        },
+        "southwest": {
+          "lat": 29.547502,
+          "lng": -98.5363911
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "US",
+        "ISO_3166-1_alpha-3": "USA",
+        "_type": "road",
+        "city": "San Antonio",
+        "continent": "North America",
+        "country": "USA",
+        "country_code": "us",
+        "county": "Bexar County",
+        "postcode": "78231",
+        "road": "Budapest",
+        "road_type": "residential",
+        "state": "Texas",
+        "state_code": "TX"
+      },
+      "confidence": 9,
+      "formatted": "Budapest, San Antonio, TX 78231, United States of America",
+      "geometry": {
+        "lat": 29.5480327,
+        "lng": -98.5358258
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "1° 40' 59.44296'' S",
+          "lng": "78° 38' 30.78060'' W"
+        },
+        "MGRS": "17MQU6236113799",
+        "Maidenhead": "FI08qh26xa",
+        "Mercator": {
+          "x": -8754374.426,
+          "y": -186143.389
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=110354904#map=16/-1.68318/-78.64188",
+          "url": "https://www.openstreetmap.org/?mlat=-1.68318&mlon=-78.64188#map=16/-1.68318/-78.64188"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "EC": "218",
+            "LATIN_AMERICA": "419",
+            "SOUTH_AMERICA": "005",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["LEDC"]
+        },
+        "callingcode": 593,
+        "flag": "🇪🇨",
+        "geohash": "6r8n6mwdz2c881v8kje1",
+        "qibla": 66.72,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Budapest",
+          "road_type": "residential",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1576840020,
+            "astronomical": 1576835460,
+            "civil": 1576838640,
+            "nautical": 1576837080
+          },
+          "set": {
+            "apparent": 1576883880,
+            "astronomical": 1576801980,
+            "civil": 1576885200,
+            "nautical": 1576800420
+          }
+        },
+        "timezone": {
+          "name": "America/Guayaquil",
+          "now_in_dst": 0,
+          "offset_sec": -18000,
+          "offset_string": "-0500",
+          "short_name": "-05"
+        },
+        "what3words": {
+          "words": "candy.hobbyists.hothouse"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": -1.68225,
+          "lng": -78.64094
+        },
+        "southwest": {
+          "lat": -1.684023,
+          "lng": -78.642763
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "EC",
+        "ISO_3166-1_alpha-3": "ECU",
+        "_type": "road",
+        "city": "Riobamba",
+        "continent": "South America",
+        "country": "Ecuador",
+        "country_code": "ec",
+        "county": "Riobamba",
+        "postcode": "EC060150",
+        "road": "Budapest",
+        "road_type": "residential",
+        "state": "Chimborazo",
+        "state_code": "H"
+      },
+      "confidence": 9,
+      "formatted": "Budapest, EC060150, Riobamba, Ecuador",
+      "geometry": {
+        "lat": -1.6831786,
+        "lng": -78.6418835
+      }
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  },
+  "stay_informed": {
+    "blog": "https://blog.opencagedata.com",
+    "twitter": "https://twitter.com/opencagedata"
+  },
+  "thanks": "For using an OpenCage API",
+  "timestamp": {
+    "created_http": "Fri, 20 Dec 2019 08:52:55 GMT",
+    "created_unix": 1576831975
+  },
+  "total_results": 10
+}

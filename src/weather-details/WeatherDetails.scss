@@ -1,0 +1,181 @@
+.details-name {
+  position: absolute;
+  top: 10px;
+  left: 22px;
+  line-height: 22px;
+  font-weight: 600;
+  width: calc(100% - 55px);
+  text-align: left;
+}
+
+.modal-backdrop .modal-container .modal-content {
+  padding-top: 10px;
+  max-width: 320px;
+  min-width: 320px;
+}
+
+.icon-and-description {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  .description {
+    margin-left: 10px;
+    max-width: 400px;
+    text-align: left;
+  }
+
+  .icon.accu.modern {
+    width: 40px;
+  }
+}
+
+.grid {
+  padding-left: 20px;
+}
+
+.details-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  &:not(:first-child) {
+    margin-top:12px;
+  }
+
+  .icon {
+    width: 32px;
+    align-self: flex-start;
+  }
+
+  .content {
+    margin-left: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    .line-with-icon {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+
+      svg {
+        margin-left: 5px;
+      }
+    }
+  }
+}
+
+.half-circle {
+  position: relative;
+  width: 90px;
+  height: 45px; /* as the half of the width */
+  border-top-left-radius: 45px;
+  border-top-right-radius: 45px;
+  z-index: 1;
+
+  &:before,
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+  }
+
+  &:before {
+    width: 92px;
+    height: 47px;
+    border-top-left-radius: 47px;
+    border-top-right-radius: 47px;
+    background: #eaeaea;
+    left: -1px;
+    z-index: 1;
+  }
+
+  &:after {
+    width: 88px;
+    height: 43px;
+    border-top-left-radius: 43px;
+    border-top-right-radius: 43px;
+    background: #fff;
+    left: 1px;
+    z-index: 2;
+  }
+
+  .orb {
+    width: 18px;
+    height: 18px;
+    // background: red;
+    position: absolute;
+    left: -9px;
+    bottom: -9px;
+    border-radius: 50%;
+    z-index: 3;
+
+    svg:first-child,
+    svg:last-child {
+      position: relative!important;
+      right: auto!important;
+      left: auto!important;
+      bottom: auto!important;
+    }
+  }
+}
+
+.rise-container {
+  .icon-container {
+    display: flex;
+    position: relative;
+    margin-left: 25px;
+    margin-right: 25px;
+  
+    svg:first-child {
+      position: absolute;
+      left: -25px;
+      bottom: 0;
+    }
+  
+    svg:last-child {
+      position: absolute;
+      right: -25px;
+      bottom: 0;
+    }
+
+    .orb {
+      background: white;
+    }
+  }
+
+  .text-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 12px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .modal-backdrop .modal-container {
+    top: 0;
+    left: 0;
+    width: calc(100% - 20px);
+    height: 100%;
+    transform: none;
+    border-radius: 0;
+
+    .modal-content {
+      max-width: 100%;
+      min-width: 100%;
+    }
+  }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 768px) {
+  .modal-backdrop .modal-container .modal-content {
+    max-width: 360px;
+    min-width: 360px;
+  }
+}

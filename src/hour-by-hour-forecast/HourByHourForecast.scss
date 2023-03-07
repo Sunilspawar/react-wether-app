@@ -1,0 +1,64 @@
+.hour-forecast {
+  h1 {
+    font-size: 14px;
+    margin-top: 32px;
+  }
+
+  .hour-card-container {
+    width: 300px;
+    height: 125px;
+    overflow-x: scroll;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    .hour-card-wrapper {
+      position: relative;
+      min-width: 50px;
+      height: 125px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+
+      &:not(:first-child) {
+        margin-left: 10px
+      }
+
+      img,
+      .hour,
+      .temp,
+      .prec {
+        z-index: 1;
+      }
+
+      .hour {
+        font-size: 14px;
+        font-style: italic;
+        margin-bottom: 5px;
+      }
+  
+      img {
+        width: 40px;
+        height: 40px;
+        object-fit: contain;
+      }
+
+      .temp {
+        display: flex;
+        
+        span {
+          display: block;
+          width: 25px;
+          font-size: 14px;
+          word-break: break-word;
+        }
+      }
+
+      .prec {
+        font-size: 12px;
+        text-align: center;
+      }
+    }
+  }
+}
